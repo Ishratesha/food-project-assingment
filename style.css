@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+    font-family: 'Work Sans', sans-serif;
+}
+.horizontal line{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+h1 span{
+    color: orange;
+}
+.anchor-button{
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, orange);
+    padding: 10px 25px;
+    border-radius: 8px;
+    color: white;
+    font-weight: 800;
+}
+
+.secend-part{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(images/shapes/Frame\ 57.jpg);
+}
